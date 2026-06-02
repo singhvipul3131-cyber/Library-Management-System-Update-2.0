@@ -1,0 +1,4 @@
+library.db
+*.png
+*.jpg
+__pycache__/
